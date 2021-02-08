@@ -1,3 +1,4 @@
 story 1
 edit1
 edit2 from GUI
+edit3
